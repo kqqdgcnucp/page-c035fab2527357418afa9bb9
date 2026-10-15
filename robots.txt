@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-3cb28ad2b1.uoaygmc.cn/sitemap.xml
